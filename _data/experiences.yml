@@ -1,28 +1,23 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  role: Web Developer Intern
+  time: 2017 - 2017
+  company: Work Wear Safety Shoes, Fort Worth, Texas
+  details: "Working as an intern during summer 2017, I developed an end-to-end web application for a shoe company. This 
+  application is used for creating/updating customer account deatils. Application was built on PHP Laravel framework using 
+  Javascript. It was hosted on AWS platform. Amazon S3 was used for setting up file system and RDS as the database. Route 53 
+  was used for sub-domain registration. This application has significantly reduced company's manual work in setting up new 
+  accounts. Application is available at: accounts.workwearboots.com."
+- experience:
+  role: Systems Engineer
+  time: 2014 - 2016
+  company: Tata Consultancy Services, Bangalore, India
+  details: "Joined as a fresher and achieved oustanding performer award 'ILP Kudos' in training.
+  Worked for clients 'Apple and 'Dick's Sporting Goods'.
   <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
-- experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  I worked as a Java Developer on a customer-care web application, for DSG client, built on Java spring and GWT 
+  frameworks with IBM's WCS as the enterprise server. Working in this project has helped me learn how to deal with clients 
+  on a daily basis and work on the user stories following agile methodology. I had also worked on unit testing my module. 
+  Another project was with Apple client where I worked as a support executive to maintain Apple’s internal applications. 
+  My responsibilities in this project included resolving application issues, analyzing application data and reporting application 
+  status to clients over call on a weekly basis. I have experience in working with Git version control system, Jira software and 
+  splunk tool. I have received 'On the Spot' appreciation award for my work in Apple project."
