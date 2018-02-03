@@ -6,7 +6,7 @@ baseurl: '/resume' #change it according to your repository name
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
 #style: styles-3
-#style: styles-4
+style: styles-4
 #style: styles-5
 #style: styles-6
 
@@ -14,18 +14,19 @@ baseurl: '/resume' #change it according to your repository name
 name: Likitha Seeram
 tagline: Software Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Hard work, being focused and honesty are few of the traits that define me.
+Interest in what I do, a strong zeal to make myself better with every growing day makes me standout. 
+Computer Science has always been my interest. Pursing masters has helped me acquire more knowledge in this field of study. 
+I have taken up Database Systems and Artificial Intelligence as majors owing to my interest in these booming fields. 
+Taking up many challenging courses and working on academic projects has widened my knowledge, mainly in the areas of 
+Cloud Computing, Big Data, Web Development, Machine Learning, Object Oriented Programming, Software Engineering, etc.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: seeramlikitha@gmail.com
+phone: 817 287 1093
+website: likitha-seeram.github.io/resume/ #do not add http://
+linkedin: likithaseeram
+github: likitha-seeram
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
