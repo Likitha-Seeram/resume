@@ -1,24 +1,27 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: ""
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Sentiment Analysis using Apache Spark
+  link: "https://github.com/Likitha-Seeram/Sentiment-Analysis-on-tweets-using-Apache-Spark"
+  tagline: "Tweets are collected from various locations basing on words iPhone, health, gym. Sentiments of these tweets are calculated using Stanford Corenlp library to identify the popularity of these words. Tweets are collected using Python Twython package and then analysed in a spark program to identify the sentiment scores. Project was implemented on Scala."
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: Face Detections and Emotion Recognition App
+  link: "https://github.com/Likitha-Seeram/Face-Detection-and-Emotion-Recognition"
+  tagline: "Developed an android application that collects images from surface view upon a double tap on the screen. Face detection and Emotion recognition are performed on the images using Microsoft Cognitive services. This application detects face on the image and gives an audio response of the emotion recognized on the face."
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: Multiple Client-Server Chat System
+  link: "https://github.com/Likitha-Seeram/Multi-Client-Server-Chat-System"
+  tagline: "This is a server-client java socket programming application developed using GUI. Many clients register to a server and request to connect to another online client. Once the connection is made, 2 clients can chat with each other until any of them disconnects or logs off. Many sets of client connections are possible and traffic is maintained separately."
+- project: 
+  title: Online Bookstore
+  link: "https://github.com/Likitha-Seeram/Online-Bookstore"
+  tagline: "Online bookstore web application helps users to browse across books (search by name or author). Users will be able to add books to their shopping cart and buy them. This application was developed by using PHP, Javascript, Bootstrap and MySQL database."
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  title: Big Data Matrix Multiplication
+  link: "https://github.com/Likitha-Seeram/Naive-Bayes-Text-Classification"
+  tagline: "2 input big data matrices were taken and multiplication is performed on them using multiple big data techniques like Hadoop Map-Reduce, Apache Spark using Scala, Apache Pig and Apache Hive."
 - project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Naive Bayes Text Classification
+  link: "https://github.com/Likitha-Seeram/Naive-Bayes-Text-Classification"
+  tagline: "Text Classification is performed on 20 news groups data using Naive Bayes Classifier. After data cleaning, half of the files in each group are used for training the model and the rest for testing the model. Accuracy of the test results is calculated to identify the efficiency of the built model. Project was implemented on Python."
