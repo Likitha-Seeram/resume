@@ -6,7 +6,7 @@
   application is used for creating/updating customer account deatils. Application was built on PHP Laravel framework using 
   Javascript. It was hosted on AWS platform. Amazon S3 was used for setting up file system and RDS as the database. Route 53 
   was used for sub-domain registration. This application has significantly reduced company's manual work in setting up new 
-  accounts. Application is available at:" <a href="accounts.workwearboots.com">"accounts.workwearboots.com"</a>.
+  accounts. Application is available at: accounts.workwearboots.com ."
 - experience:
   role: Systems Engineer
   time: 2014 - 2016
