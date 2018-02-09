@@ -24,4 +24,4 @@
 - project:
   title: Naive Bayes Text Classification
   link: "https://github.com/Likitha-Seeram/Naive-Bayes-Text-Classification"
-  tagline: "Text Classification was performed on 20 newsgroups data using Naive Bayes Classifier. After data cleaning, half of the files in each group were used for training the model and the rest for testing the model. The Accuracy of the test results was calculated to identify the efficiency of the built model. Project was implemented on Python."
+  tagline: "Text Classification was performed on 20 newsgroups data using Naive Bayes Classifier. After data cleaning, half of the files in each group were used for training the model and the rest for testing the model. The accuracy of the test results was calculated to identify the efficiency of the built model. Project was implemented on Python."
