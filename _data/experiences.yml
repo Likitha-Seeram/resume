@@ -2,11 +2,11 @@
   role: Web Developer Intern
   time: 2017 - 2017
   company: Work Wear Safety Shoes, Fort Worth, Texas
-  details: "Working as an intern during summer 2017, I developed an end-to-end web application for a shoe company. This 
-  application is being used for creating/updating customer account deatils. Application was built on PHP Laravel framework using 
-  Javascript. It was hosted on AWS platform. Amazon S3 was used for setting up file system and RDS as the database. Route 53 
+  details: "Working as an intern during summer 2017, I developed an end-to-end web application for a shoe company. The 
+  application is being used for creating/updating customer account details. The Application was built on PHP Laravel framework using 
+  Javascript. It was hosted on AWS platform. Amazon S3 was used for setting up the file system and RDS as the database. Route 53 
   was used for sub-domain registration. This application has significantly reduced company's manual work in setting up new 
-  accounts. Application is available at: accounts.workwearboots.com ."
+  accounts. The Application is available at 'http://.accounts.workwearboots.com'."
 - experience:
   role: Systems Engineer
   time: 2014 - 2016
@@ -15,9 +15,9 @@
   Worked for clients 'Apple and 'Dick's Sporting Goods'.
   <br> <br>
   I worked as a Java Developer on an e-commerce 'customer-care' web application, for DSG client, built on Java spring and GWT 
-  frameworks with IBM's WCS as the enterprise server. Working in this project has helped me learn how to deal with clients 
-  on a daily basis and work on the user stories following agile methodology. I had also worked on unit testing my module. 
+  frameworks with IBM's WCS as the enterprise server. Working on this project has helped me learn how to deal with clients 
+  on a daily basis and work on the user stories following the Agile methodology. I had also worked on unit testing my module. 
   Another project was with Apple client where I worked as a support executive to maintain Apple’s internal applications. 
   My responsibilities in this project included resolving application issues, analyzing data and reporting application 
-  status to clients over call on a weekly basis. I have experience in working with Git version control system, Jira software and 
+  status to clients on call on a weekly basis. I have experience in working with Git version control system, Jira software, and 
   Splunk tool. I have received 'On the Spot' appreciation award for my work in Apple project."
