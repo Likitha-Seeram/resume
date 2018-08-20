@@ -5,10 +5,13 @@
   name: Javascript & jQuery
   level: 90%
 - skill:
-  name: PHP
-  level: 95%
+  name: React
+  level: 80%
 - skill:
-  name: HTML5 & CSS
+  name: Jest & jUnit testing
+  level: 85%
+- skill:
+  name: PHP
   level: 95%
 - skill:
   name: SQL
