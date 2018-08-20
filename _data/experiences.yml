@@ -1,4 +1,11 @@
 - experience:
+  role: Software Engineer
+  time: 2018 - Present
+  company: Cerner Corporation, Kansas City, Missouri
+  details: "Worked on a training project built on Java Spark and React frameworks, which uses Hibernate ORM. I have learned and 
+  implemented unit testing using Jest for front-end and JUnit for server-side development. I have implemented full-stack functionality 
+  related to front-end, middle tier and backend in an agile environment."
+- experience:
   role: Web Developer Intern
   time: 2017 - 2017
   company: Work Wear Safety Shoes, Fort Worth, Texas
